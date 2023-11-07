@@ -4,5 +4,5 @@ project Video Link -->    https://youtu.be/rSKwQF5yF4E?si=AP8mDvA-8alU4JCX
 
   -----------------------------------------------------------DATABASE SQL FILE-------------------------------------------------------
 
-  DATABASE SQL file include above . you can see on folder its name is 
-  
+  DATABASE SQL file is include above  folder its name is DatabaseSQLfile. inside of this folder you can see sql file.
+  import that sql file to your phpmyadmin.
